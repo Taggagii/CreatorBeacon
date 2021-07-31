@@ -1,16 +1,18 @@
 # VIDEO
 intro motivation behind apps, why you created it
-[ phone home screen ]
+I'm a small, up and coming youtube, ready to take this world by storm. Though, I've recently run into trouble organizing giveways and little events for my viewerbase. So, I've created CreatorBeacon, allowing me, and you, to easily organize giveaways and meetups with my fans; in a controlled and sophisitcated manner. 
+
 [ shows YouTube studio ]
-- as a YouTube creator who is just starting out it's hard for me to connect with my audience in person
-- even though I don't have many fans yet, I still want to form a deeper connection that we can simply through text
-- At a a conference like Vidcon, there are so many people there it's impossible for me to get a panel or a booth where I can meet my audience
 
-This need led to me and my friend creating CreatorBeacon
+- even though I don't have many fans yet, I still want to form a deeper connection than we can simply through text
+- At a a conference like Vidcon, there are so many people that it's impossible for me to get a panel or a booth where I can meet my audience
 
-open app on phone
+This need has led to us to creating CreatorBeacon
+
+*open app on phone*
 
 log in to creator account
+- SAY SOMETHINGA BOUT LOGGING IN 
 
 show current giveaway, VidCon (YouTube conference)
 - didn't have a large enough audience to be on a panel or get a booth
